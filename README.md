@@ -12,16 +12,19 @@ To write a program to find the exponentiation of a number.
 2. Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
-```
-/*
-Program to find the exponentiation of a number.
-Developed by: 
-RegisterNumber: 
-*/
+## Program to to find the Exponentiation of a number.
+## Developed by:s.vinod kumar
+## RegisterNumber:22004903
+
+``` python
+n1=int(input())
+n2=int(input())
+result=n1**n2
+print("Exponentiation of a given number:",result)
 ```
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](/OUTPUT.png)
 
 
 ## Result:
