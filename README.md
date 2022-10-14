@@ -32,6 +32,11 @@ print("Exponentiation of a given number:",result)
 
 
 
+
+
+
+
+
 ## Output:
 ![exponentiation of a number](/OUTPUT.png)
 
