@@ -27,6 +27,11 @@ result=n1**n2
 print("Exponentiation of a given number:",result)
 ```
 
+
+
+
+
+
 ## Output:
 ![exponentiation of a number](/OUTPUT.png)
 
