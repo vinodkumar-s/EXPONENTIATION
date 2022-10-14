@@ -8,9 +8,9 @@ To write a program to find the exponentiation of a number.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-##step1
+## step1
 Get the input from the user.
-##step2 
+## step2 
 Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
